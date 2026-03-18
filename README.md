@@ -1,16 +1,72 @@
-About Me | Sobre Mim
+# 👋 Hello, I'm Mateus
 
-👨‍💻 Software Developer passionate about technology, programming, and creating impactful solutions. I specialize in JavaScript, Python, and Web Development. Always learning and exploring new challenges!
+🎓 Software Engineer Student
+💻 Interested in Cybersecurity, Cloud Computing and Software Development
+🚀 Always learning new technologies and building projects
 
-💻 Desenvolvedor de Software apaixonado por tecnologia, programação e criação de soluções impactantes. Tenho especialização em JavaScript, Python e Desenvolvimento Web. Sempre aprendendo e explorando novos desafios!
-Skills
+---
 
-    Programming Languages: JavaScript, Python, Java
-    Web Development: React, Node.js, HTML/CSS
-    Databases: MySQL, MongoDB
+## 🇧🇷 Sobre mim
 
-Projects | Projetos
-Contact | Contato
+Olá! Meu nome é **Mateus** e sou estudante de **Engenharia de Software**.
+Tenho interesse em áreas como:
 
-📧 Email: mafaam01@gmail.com
-🌎 Fluent in English and Portuguese
+* 🔐 Cibersegurança
+* 🌐 Web Developer
+* ☁️ Computação em Nuvem
+* 🐍 Desenvolvimento em Python
+* 🌐 Sistemas e automação
+
+Atualmente estou focado em **aprender, desenvolver projetos e aprimorar minhas habilidades técnicas**.
+
+---
+
+## 🇺🇸 About Me
+
+Hello! My name is **Mateus**, and I am a **Software Enginner student**.
+I am interested in areas such as:
+
+* 🔐 Cybersecurity
+* 🌐 Web Developer
+* ☁️ Cloud Computing
+* 🐍 Python Development
+* 🌐 Systems and Automation
+
+Currently, I am focused on **learning, building projects, and improving my technical skills**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+* Python
+* Web Developer
+* Git & GitHub
+* Linux
+* Networking Basics
+* Cloud Computing (learning)
+
+---
+
+## 📊 GitHub Stats
+
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-canatto\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📚 Current Goals
+
+* 📖 Improve my knowledge in **Cybersecurity**
+* ☁️ Learn more about **Cloud technologies**
+* 💻 Build more **Python projects**
+* 🌎 Contribute to **open-source projects**
+
+---
+
+## 📫 Contact
+
+* LinkedIn: (https://www.linkedin.com/in/mateus-canatto-2381702aa/)
+* Email: (mafaam01@gmail.com)
+
+---
+
+⭐ *Feel free to explore my repositories!*
