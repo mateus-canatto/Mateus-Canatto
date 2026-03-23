@@ -66,6 +66,7 @@ Currently, I am focused on **learning, building projects, and improving my techn
 
 * LinkedIn: (https://www.linkedin.com/in/mateus-canatto-2381702aa/)
 * Email: (mafaam01@gmail.com)
+* Fluente in English and Portuguese
 
 ---
 
