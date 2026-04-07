@@ -35,9 +35,9 @@ Currently, I am focused on **learning, building projects, and improving my techn
 ---
 
 ## Projects
-[A.S.H](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project) - [Click Here](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project)
-[WiB](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32) - [Click Here](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32)
-[College Group](https://github.com/chaoticdevs-pucpr) - [Click Here](https://github.com/chaoticdevs-pucpr)
+* [A.S.H](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project) - [Click Here](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project)
+* [WiB](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32) - [Click Here](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32)
+* [College Group](https://github.com/chaoticdevs-pucpr) - [Click Here](https://github.com/chaoticdevs-pucpr)
 
 ---
 
