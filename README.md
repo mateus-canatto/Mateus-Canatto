@@ -1,8 +1,6 @@
 # Hello, I'm Mateus
 
-Software Engineer Student
-Interested in Cybersecurity, Cloud Computing and Software Development
-Always learning new technologies and building projects
+Software Engineer Student at PUCPR in Paraná, BR.
 
 ---
 
@@ -14,7 +12,7 @@ Tenho interesse em áreas como:
 * Cibersegurança
 * Web Developer
 * Computação em Nuvem
-* Desenvolvimento em Python
+* Desenvolvimento em Python, HTML & CSS, JavaScript, PHP, MySql e Java
 * Sistemas e automação
 
 Atualmente estou focado em **aprender, desenvolver projetos e aprimorar minhas habilidades técnicas**.
@@ -29,44 +27,25 @@ I am interested in areas such as:
 * Cybersecurity
 * Web Developer
 * Cloud Computing
-* Python Development
+* Python, HTML & CSS, JavaScript, PHP, MySql and Java Development
 * Systems and Automation
 
 Currently, I am focused on **learning, building projects, and improving my technical skills**.
 
 ---
 
-## Technologies & Tools
-
-* Python
-* Web Developer
-* Git & GitHub
-* Linux
-* Networking Basics
-* Cloud Computing (learning)
-
----
-
-## GitHub Stats
-
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-canatto\&show_icons=true\&theme=tokyonight)
-
----
-
-## Current Goals
-
-* Improve my knowledge in **Cybersecurity**
-* Learn more about **Cloud technologies**
-* Build more **Python projects**
-* Contribute to **open-source projects**
+## Projects
+[A.S.H](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project) - [Click Here](https://github.com/chaoticdevs-pucpr/AcademicSupplementaryHours.project)
+[WiB](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32) - [Click Here](https://github.com/chaoticdevs-pucpr/WaterInBox.esp32)
+[College Group](https://github.com/chaoticdevs-pucpr) - [Click Here](https://github.com/chaoticdevs-pucpr)
 
 ---
 
 ## Contact
 
-* LinkedIn: (https://www.linkedin.com/in/mateus-canatto-2381702aa/)
+* [LinkedIn](https://www.linkedin.com/in/mateus-canatto-2381702aa/)
 * Email: (mafaam01@gmail.com)
-* Fluente in English and Portuguese
+* Fluent in English and Portuguese
 
 ---
 
