@@ -21,7 +21,7 @@ Atualmente estou focado em **aprender, desenvolver projetos e aprimorar minhas h
 
 ## About Me
 
-Hello! My name is **Mateus**, and I am a **Software Enginner student**.
+Hello! My name is **Mateus**, and I am a **Software Enginner** student.
 I am interested in areas such as:
 
 * Cybersecurity
@@ -45,7 +45,7 @@ Currently, I am focused on **learning, building projects, and improving my techn
 
 * [LinkedIn](https://www.linkedin.com/in/mateus-canatto-2381702aa/)
 * Email: (mafaam01@gmail.com)
-* Fluent in English and Portuguese
+* Fluent in Portuguese and intermediate level in English.
 
 ---
 
